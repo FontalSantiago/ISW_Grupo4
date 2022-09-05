@@ -1,4 +1,6 @@
 # ISW - Grupo 4
 Integrantes:
-| Nombre y Apellido | Legajo |
-| Julian Rosso | asdasdad |
+| Nombre y Apellido      | Legajo |
+| :---        |    ----:   | 
+| Header      | Title      | 
+| Paragraph   | Text       | 
