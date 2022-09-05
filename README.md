@@ -1,6 +1,19 @@
 # Ingeniería de Software - Grupo 4
 ## Integrantes:
-| Nombre y Apellido      | Legajo |
+| Apellido y Nombre      | Legajo |
 | :---        |    ----:   | 
-| Santiago Fontal      |  	82035      | 
-| Paragraph   | Text       | 
+| Fontal Santiago      |  	82035      | 
+| Gregorat Matías   | 81866       | 
+| Gazzia Ignacio   | 80683       | 
+| Pagliero José   | 83835       | 
+| Rosso Julián   | 81730       | 
+| Giardino Valentino   | 84292       | 
+
+## Estructura del Repositorio
+
+
+## Items de Configuración
+
+## Glosario
+
+## Gestión de Lineas Base
