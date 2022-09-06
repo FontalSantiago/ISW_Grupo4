@@ -9,11 +9,3 @@
 | Rosso Julián   | 81730       | 
 | Giardino Valentino   | 84292       | 
 
-## Estructura del Repositorio
-
-
-## Items de Configuración
-
-## Glosario
-
-## Gestión de Lineas Base
